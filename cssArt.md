@@ -15,17 +15,32 @@ Ten derde is het maken van CSS Art ook een goede manier om je portfolio uit te b
 
 
 ## Stappenplan: Hoe maak je CSS Art?
+Nu je weet wat CSS Art is en waarom je het zou moeten maken, is het tijd om zelf aan de slag te gaan! In dit stappenplan zal ik je meenemen in het proces van het maken van je eerste kunstwerk.
 
 ### Stap 1: Inspiratie opdoen
+Voordat je begint met het maken van je kunstwerk is het belangrijk om eerst inspiratie op te doen. Je kan bijvoorbeeld op Pinterest zoeken naar CSS Art, maar je kan ook op Codepen kijken naar de verschillende voorbeelden. Naast het zoeken voor bestaande CSS Art, kun je ook zoeken naar illustraties die je na zou willen maken. Als je echt in een creatieve bui bent is het natuurlijk het leukst om helemaal zelf een ontwerp te bedenken.
 
 ### Stap 2: Schetsen
+Als je eenmaal bedacht heb wat je wil gaan maken, kan je kijken naar de verschillende vormen waaruit de illustratie bestaat. Dit lijkt misschien moeilijk in het begin, maar als je goed kijkt zal je zien dat de meeste illustraties bestaan uit simpele vormen. Vaak kom je met basisvormen als een cirkel, vierkant, rechthoek of driehoek al heel ver!
+
+Of je nou een bestaande illustratie wil namaken of een eigen ontwerp wil gaan uitwerken, het is altijd handig om eerst een schets te maken. Hierdoor krijg je een beter beeld van de vormen die je nodig hebt en hoe je deze kan combineren. Daarnaast kan je ook alvast nadenken over de HTML structuur die je nodig hebt.
 
 ### Stap 3: HTML structuur
+Nadat je een schets hebt gemaakt, weet je waarschijnlijk hoe veel onderdelen je nodig zal hebben om je illustratie te maken. Meestal wordt er voor elk onderdeel een `<div>` gebruikt, maar zelf vind ik het ook een leuke uitdaging om zo min mogelijk HTML elementen te gebruiken. Zo kun je met een `::before` of `::after` pseudo-element ook een vorm creëren, waardoor je met één `<div>` dus drie vormen kan maken.
+
+Naast `div` elementen kan je ook `<section>` elementen gebruiken om bepaalde elementen te gegroeperen.
+
 
 ### Stap 4: CSS styling
+Nu je de HTML structuur hebt gemaakt, kan je echt gaan beginnen met de CSS. Dit is het leukste gedeelte, want nu kan je je creativiteit de vrije loop laten gaan! Je kan de vormen een kleur geven, een border toevoegen, een achtergrondkleur geven, een gradient toevoegen, een animatie toevoegen, een schaduw geven, de positie bepalen en nog veel meer. 
+
+
+### Voorbeeld
+Je weet nu wat CSS Art is, waarom je het zou moeten maken en hoe je het kan maken. Maar hoe ziet dat er nou uit in de praktijk? Om je een beter beeld te geven van het proces van het maken van CSS Art, zal ik je meenemen in het proces van het maken van een illustratie aan de hand van de stappen die ik hierboven heb beschreven.
 
 
 
 ## Bronnen
-https://tripleten.com/blog/posts/the-how-and-why-behind-stunning-css-art-with-examples
-https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7
+* [The how and why behind stunning css art with examples](https://tripleten.com/blog/posts/the-how-and-why-behind-stunning-css-art-with-examples)
+* [https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7](https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7)
+* [https://dev.to/poulamic/intro-to-creating-css-art-1ep5](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
