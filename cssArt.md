@@ -5,9 +5,13 @@ Op 9 juni 2023 had ik het geluk dat ik de tweede dag van CSS Day mocht bijwonen.
 CSS Art is een vorm van kunst waarbij je alleen gebruik maakt van HTML en CSS (Cascading Style Sheet). Het idee hierachter is dat je illustratie of ontwerp maakt zonder dat je daarbij een afbeelding gebruikt. In plaats daarvan maak je gebruik van de mogelijkheden van CSS om vormen, kleuren, animaties en andere effecten te creëren. 
 
 ## Waarom zou je CSS Art maken?
-Het maken van CSS Art is niet alleen heel leuk om te doen, maar het is ook een goede manier om je CSS skills te verbeteren. Naast vormen maken en kleuren geven leer je namelijk ook nieuwe css technieken. Tijdens het maken van je kunstwerk zal je namelijk obstakels tegenkomen en zul je erachter komen dat de mogelijkheden van CSS eindeloos zijn. Daarnaast is het ook een goede manier om je creativiteit te uiten. Je kan namelijk alles maken wat je maar wilt. Van een simpel icoontje tot een ingewikkelde illustratie.
+CSS Art kom je vrij weinig tegen op websites, aangezien er veel code voor nodig is wat invloed kan hebben op de performance van de website. Maar waarom zou je dan überhaupt CSS Art maken? 
 
+Ten eerste, omdat het onwijs leuk is om te doen! Je kan er volledig je creativiteit in kwijt en alles maken wat je maar wilt; van een simpel icoon tot een ingewikkelde illustratie. Omdat je het zo simpel kan maken als je wil, kan iedereen ook meteen beginnen met het maken van CSS Art.
 
+Ten tweede is het maken van CSS Art een goede manier om je CSS skills te verbeteren. Je leert namelijk nieuwe technieken en je leert hoe je bepaalde effecten kan creëren. Daarnaast zal je tijdens het maken van je kunstwerk ook obstakels tegenkomen, waardoor je op zoek moet naar een oplossing. Hierdoor zal je jezelf uitdagen en zal je erachter komen dat de mogelijkheden van CSS eindeloos zijn.
+
+Ten derde is het maken van CSS Art ook een goede manier om je portfolio uit te breiden. Je kan namelijk je kunstwerken toevoegen aan je portfolio, waardoor je kan laten zien dat je niet alleen websites kan stijlen, maar ook de meest creatieve illustraties met CSS kan maken.
 
 
 ## Stappenplan: Hoe maak je CSS Art?
