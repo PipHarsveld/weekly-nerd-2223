@@ -13,7 +13,6 @@ Ten tweede is het maken van CSS Art een goede manier om je CSS skills te verbete
 
 Ten derde is het maken van CSS Art ook een goede manier om je portfolio uit te breiden. Je kan namelijk je kunstwerken toevoegen aan je portfolio, waardoor je kan laten zien dat je niet alleen websites kan stijlen, maar ook de meest creatieve illustraties met CSS kan maken.
 
-
 ## Stappenplan: Hoe maak je CSS Art?
 Nu je weet wat CSS Art is en waarom je het zou moeten maken, is het tijd om zelf aan de slag te gaan! In dit stappenplan zal ik je meenemen in het proces van het maken van je eerste kunstwerk.
 
@@ -30,17 +29,15 @@ Nadat je een schets hebt gemaakt, weet je waarschijnlijk hoe veel onderdelen je 
 
 Naast `div` elementen kan je ook `<section>` elementen gebruiken om bepaalde elementen te gegroeperen.
 
-
 ### Stap 4: CSS styling
 Nu je de HTML structuur hebt gemaakt, kan je echt gaan beginnen met de CSS. Dit is het leukste gedeelte, want nu kan je je creativiteit de vrije loop laten gaan! Je kan de vormen een kleur geven, een border toevoegen, een achtergrondkleur geven, een gradient toevoegen, een animatie toevoegen, een schaduw geven, de positie bepalen en nog veel meer. 
 
-
 ### Voorbeeld
-Je weet nu wat CSS Art is, waarom je het zou moeten maken en hoe je het kan maken. Maar hoe ziet dat er nou uit in de praktijk? Om je een beter beeld te geven van het proces van het maken van CSS Art, zal ik je meenemen in het proces van het maken van een illustratie aan de hand van de stappen die ik hierboven heb beschreven.
+Je weet nu wat CSS Art is, waarom je het zou moeten maken en hoe je het kan maken. Maar hoe ziet dat er nou uit in de praktijk? Mocht je het leuk vinden kun je een kijkje nemen in [mijn Codepen](https://codepen.io/collection/gYKxBo?), waar ik verschillende voorbeelden heb gemaakt van CSS Art. Ik heb helaas nog maar drie illustraties gemaakt, maar ben van plan om er in de toekomst nog veel meer te maken.
 
 
 
 ## Bronnen
 * [The how and why behind stunning css art with examples](https://tripleten.com/blog/posts/the-how-and-why-behind-stunning-css-art-with-examples)
-* [https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7](https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7)
-* [https://dev.to/poulamic/intro-to-creating-css-art-1ep5](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
+* [How to understand css better by making art](https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7)
+* [Intro to creating css art](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
