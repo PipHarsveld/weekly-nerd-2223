@@ -12,7 +12,8 @@ Masonry is een techniek die al langer bestaat, maar de laatste jaren steeds popu
 ## Masonry met CSS Grid Layout
 Sinds de komst van CSS Grid Layout is het mogelijk om Masonry te maken met alleen CSS. Dit is mogelijk door de `grid-auto-flow` property te gebruiken. Deze property bepaalt hoe de elementen in een grid worden geplaatst. De standaard waarde is `row`, wat betekent dat de elementen in een grid van links naar rechts en van boven naar beneden worden geplaatst. Wanneer je de waarde `column` gebruikt, worden de elementen van boven naar beneden en van links naar rechts geplaatst. Hierdoor ontstaat er een Masonry grid, waarbij de elementen in de kolommen van boven naar beneden worden geplaatst en de breedte van de rijen variabel is.
 
-Mocht je aan de slag willen met een masonry grid in CSS, dan is het belangrijk om te weten dat dit nog niet volledig overal ondersteund is. Op dit moment is het nog alleen bruikbaar in Firefox, nadat je een developer flag hebt aangezet. Om dit te doen zoek je naar `about:config` in je zoekbalk en zoek je naar `layout.css.grid-template-masonry-value.enabled`. Deze zet je op `true` en dan kun je aan de slag! Met de paar onderstaande regels code kun je al een basis grid maken met CSS masonry.
+Mocht je aan de slag willen met een masonry grid in CSS, dan is het belangrijk om te weten dat dit nog niet volledig overal ondersteund is. Op dit moment is het nog alleen bruikbaar in Firefox, nadat je een developer flag hebt aangezet. Om dit te doen zoek je naar `about:config` in je zoekbalk en zoek je naar `layout.css.grid-template-masonry-value.enabled`. Deze zet je op `true` en dan kun je aan de slag! Met de paar onderstaande regels code kun je al een basis grid maken met CSS masonry. Bekijk ook mijn voorbeeld in [Codepen](https://codepen.io/pipharsveld/pen/wvQWaLE).
+
 
 ```css
 .container {
@@ -22,28 +23,27 @@ Mocht je aan de slag willen met een masonry grid in CSS, dan is het belangrijk o
   grid-template-rows: masonry;
 }
 ```
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="wvQWaLE" data-user="pipharsveld" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/pipharsveld/pen/wvQWaLE">
-  Css masonry</a> by Pip (<a href="https://codepen.io/pipharsveld">@pipharsveld</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Masonry met JavaScript
-Aangezien CSS grid nog niet overal ondersteund wordt, kan het handig zijn om na te denken over bijvoorbeeld een javascript library als fallback. Hopelijk wordt CSS in de toekomst meer ondersteund en is dit niet meer nodig, maar tot die tijd is het fijn als alle gebruikers dezelfde ervaring kunnen krijgen. Er zijn verschillende javascript libraries die je kunt gebruiken om een masonry grid te maken. Voor mijn project in de meesterproef heb ik gebruik gemaakt van [Masonry.js](https://masonry.desandro.com/) van David Desandro. Ik moest eerst goed kijken hoe ik kon werken met deze library want ik vond de documentatie niet heel duidelijk, maar met een tutorial is het uiteindelijk gelukt om een masonry grid te maken. Hieronder een voorbeeld van hoe je Masonry.js kunt gebruiken.
+Aangezien CSS grid nog niet overal ondersteund wordt, kan het handig zijn om na te denken over bijvoorbeeld een javascript library als fallback. Hopelijk wordt CSS in de toekomst meer ondersteund en is dit niet meer nodig, maar tot die tijd is het fijn als alle gebruikers dezelfde ervaring kunnen krijgen. Er zijn verschillende javascript libraries die je kunt gebruiken om een masonry grid te maken. Voor mijn project in de meesterproef heb ik gebruik gemaakt van [Masonry.js](https://masonry.desandro.com/) van David Desandro. Ik moest eerst goed kijken hoe ik kon werken met deze library want ik vond de documentatie niet heel duidelijk, maar met een tutorial is het uiteindelijk gelukt om een masonry grid te maken. Hieronder een voorbeeld van hoe je Masonry.js kunt gebruiken nadat je de library gedownload hebt. Bekijk ook mijn voorbeeld in [Codepen](https://codepen.io/pipharsveld/pen/zYMKvWK).
 
 ```js
-
+// Initialize Masonry
+var masonry = new Masonry("#masonry-container", {
+  itemSelector: ".masonry-item",
+  columnWidth: ".masonry-item",
+  gutter: 25
+});
 
 ```
 
-
 ## Conslusie
-
+Masonry maakt het mogelijk om elementen met verschillende hoogtes strak te ordenen, waardoor er geen witruimtes ontstaan. Het werken met CSS masonry vond ik zelf het prettigst, omdat je dan geen extra library hoeft te gebruiken. Helaas is dit nog niet overal ondersteund, waardoor je een fallback nodig hebt. Met JavaScript kun je dit oplossen, maar dit is wel een extra library die je moet gebruiken. Hopelijk is dit in de toekomst niet meer nodig en kunnen we nog meer mooie sites maken met CSS masonry!
 
 ## Bronnen
 * [Native CSS masonry layout in CSS grid](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
 * [Piecing together approaches for a CSS masonry layout](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/)
 * [Masonry Layout mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout)
+* [Masonry.js](https://masonry.desandro.com/)
 
 
