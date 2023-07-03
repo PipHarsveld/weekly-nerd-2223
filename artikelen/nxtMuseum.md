@@ -9,20 +9,16 @@ Het is lastig te beschrijven hoe dit er precies uit ziet, dus om een goed beeld 
 ## Technische analyse
 Ik vond het moeilijk om te zien welke technologieën er precies gebruikt zijn voor dit kunstwerk. Wel zag ik beelden op de muren en de vloer, maar dit waren geen echte schermen. Toen ik verder rond ging kijken in de ruimte kwam ik erachter dat er een aantal beamers aan het plafond hingen waarmee de beelden geprojecteerd werden. Op deze manier verschenen er helaas schaduwen als mensen over de grond liepen, wat natuurlijk erg jammer is. Om dit probleem op te lossen zou je de beamers moeten vervangen met op de grond en op de muur enorme digitale schermen. Ook is het dan mogelijk om interactie toe te voegen, dat bijvoorbeeld de bezoekers door het lopen over de vloer of het aanraken van de muur invloed hebben op de nieuwe vorm die de zeewezens aannemen. Wel snap ik dat dit niet heel realistisch is vanwege de hoge kosten die hierbij komen kijken, maar mocht budget geen issue zijn, denk ik dat het veel toegevoegde waarde zou hebben om de beamers te vervangen met enorme schermen.
 
-<img src="/artikelen/media/foto_beamers.jpg" alt="foto van de beamers die de beelden op de muur en vloer projecteren" width="350px">
+<img src="/artikelen/media/foto_beamers.jpg" alt="foto van de beamers die de beelden op de muur en vloer projecteren" width="300px">
 
 ## Analyse van het ontwerp
 Zoals ik hierboven al heb genoemd was er helaas helemaal geen interactie mogelijk met dit kunstwerk. Als bezoeker kon je wel over de vloer lopen, maar dat creëerde dan weer schaduwen. Verder was het mogelijk om vanaf een bankje te kijken naar de verandering van de vormen, maar na een tijdje heb je dat ook wel weer gezien. Ik denk dat het kunstwerk veel interessanter zou zijn als er interactie mogelijk was. Bijvoorbeeld dat je door middel van een touchscreen op de muur de vormen kan beïnvloeden. Of dat je door middel van een camera op de vloer de vormen kan beïnvloeden door eroverheen te lopen. Dit zou het kunstwerk veel interessanter maken en de bezoekers langer vasthouden. 
 
 Wel werd er in dit kunstwerk goed gebruik gemaakt van de principes van visuele hiërargie. Zo werd er bijvoorbeeld gebruik gemaakt van veel kleur, maar wel op een rustige manier en zonder dat het te overweldigend werd. Wat betreft contrast werd er gebruik gemaakt van licht en donker, maar ook van scherpe en onscherpe beelden en werden er verschillende texturen afgebeeld. Qua compositie werden er zes vlakken afgebeeld, waarvan drie op de vloer en drie op de muur. Elk vlak beelde weer een ander zeewezen uit, waardoor er genoeg te zien was en het je aandacht vasthield.
 
-<video width="500px" controls>
-  <source src="/artikelen/media/video1.mp4" type="video/mp4">
-</video>
+[Bekijk hier de eerste video van het kunstwerk](https://vimeo.com/841988061?share=copy)
 
-<video width="500px" controls>
-  <source src="/artikelen/media/video2.mp4" type="video/mp4">
-</video>
+[Bekijk hier de tweede video van het kunstwerk](https://vimeo.com/841989447?share=copy)
 
 
 ## Reflectie
