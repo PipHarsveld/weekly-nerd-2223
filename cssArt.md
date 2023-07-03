@@ -35,9 +35,11 @@ Nu je de HTML structuur hebt gemaakt, kan je echt gaan beginnen met de CSS. Dit 
 ### Voorbeeld
 Je weet nu wat CSS Art is, waarom je het zou moeten maken en hoe je het kan maken. Maar hoe ziet dat er nou uit in de praktijk? Mocht je het leuk vinden kun je een kijkje nemen in [mijn Codepen](https://codepen.io/collection/gYKxBo?), waar ik verschillende voorbeelden heb gemaakt van CSS Art. Ik heb helaas nog maar drie illustraties gemaakt, maar ben van plan om er in de toekomst nog veel meer te maken.
 
+![image](https://github.com/PipHarsveld/weeklyNerd/assets/54938035/486819d7-069a-43de-becb-3d87d742ac84)
 
 
 ## Bronnen
 * [The how and why behind stunning css art with examples](https://tripleten.com/blog/posts/the-how-and-why-behind-stunning-css-art-with-examples)
 * [How to understand css better by making art](https://medium.com/@janetmndz/how-to-understand-css-better-by-making-art-bc7bdca681e7)
 * [Intro to creating css art](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
+* [How creating CSS Art can make you a better developer](https://blog.prototypr.io/how-creating-css-art-can-make-you-a-better-developer-8a382694d5f5)
