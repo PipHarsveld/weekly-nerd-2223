@@ -11,7 +11,7 @@
     <tr>
         <td>Deanna Bosschert</td>
         <td>22 februari / 16:00 - 17:00</td>
-        <td>[Bekijk de sketchnotes](https://github.com/PipHarsveld/weeklyNerd/blob/main/sketchnotes/weeklyNerd1.jpg)</td>
+        <td><a href=https://github.com/PipHarsveld/weeklyNerd/blob/main/sketchnotes/weeklyNerd1.jpg>Bekijk mijn sketchnotes</a></td>
     </tr>
     <tr>
         <td>Chazz Mannering</td>
