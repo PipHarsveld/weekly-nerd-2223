@@ -22,7 +22,12 @@ Mocht je aan de slag willen met een masonry grid in CSS, dan is het belangrijk o
   grid-template-rows: masonry;
 }
 ```
-
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="wvQWaLE" data-user="pipharsveld" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/pipharsveld/pen/wvQWaLE">
+  Css masonry</a> by Pip (<a href="https://codepen.io/pipharsveld">@pipharsveld</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Masonry met JavaScript
 Aangezien CSS grid nog niet overal ondersteund wordt, kan het handig zijn om na te denken over bijvoorbeeld een javascript library als fallback. Hopelijk wordt CSS in de toekomst meer ondersteund en is dit niet meer nodig, maar tot die tijd is het fijn als alle gebruikers dezelfde ervaring kunnen krijgen. Er zijn verschillende javascript libraries die je kunt gebruiken om een masonry grid te maken. Voor mijn project in de meesterproef heb ik gebruik gemaakt van [Masonry.js](https://masonry.desandro.com/) van David Desandro. Ik moest eerst goed kijken hoe ik kon werken met deze library want ik vond de documentatie niet heel duidelijk, maar met een tutorial is het uiteindelijk gelukt om een masonry grid te maken. Hieronder een voorbeeld van hoe je Masonry.js kunt gebruiken.
